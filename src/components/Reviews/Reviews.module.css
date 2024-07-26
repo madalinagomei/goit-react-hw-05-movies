@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  gap: 15px;
+}
+
+.author {
+  margin-bottom: 5px;
+}
+
+p {
+  text-align: justify;
+}

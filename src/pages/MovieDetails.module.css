@@ -1,0 +1,28 @@
+.wrapper {
+  display: flex;
+  gap: 10px;
+  margin: 20px;
+}
+
+.img {
+  width: 250px;
+}
+
+.movieInfo {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.extraInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.links {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
